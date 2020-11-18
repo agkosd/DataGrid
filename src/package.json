@@ -1,0 +1,21 @@
+{
+  "name": "Group Summaries - DevExtreme Data Grid",
+  "description": "This example illustrates the use of group data summaries (calculated totals in each group). To configure a group summary, declare the groupItems array within the summary object. This demo also illustrates the widget’s ability to position group summary items. By default, they are displayed in the group row’s header, but you can shift them to a specific column (the alignByColumn option) or even move them to the group footer (the showInGroupFooter option).\n",
+  "dependencies": {
+    "devexpress-diagram": "2.0.0",
+    "devexpress-gantt": "2.0.0",
+    "devextreme": "20.2.3",
+    "devextreme-quill": "0.9.5",
+    "devextreme-react": "20.2.3",
+    "es6-object-assign": "1.1.0",
+    "exceljs": "4.2.0",
+    "file-saver": "2.0.2",
+    "jszip": "3.5.0",
+    "luxon": "1.25.0",
+    "preact": "10.5.5",
+    "prop-types": "15.7.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "rrule": "2.6.6"
+  }
+}
